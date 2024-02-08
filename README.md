@@ -3,7 +3,7 @@
 <h1>Ai Vision Plus</h1>
 <p>Using Tensorflow's TFLITE model technology and flutter , I made an android application that detects objects that are near the user using the front or back camera and play the objects names using TTS feature</p>
 
-<h4> <span> · </span> <a href="https://github.com/Hephaestus27/Ai Vision Plus /blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/Hephaestus27/Ai Vision Plus /issues"> Report Bug </a> <span> · </span> <a href="https://github.com/Hephaestus27/Ai Vision Plus /issues"> Request Feature </a> </h4>
+<h4> <span> · </span> <a href="https://github.com/Hephaestus27/Ai-Vision-Plus/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/Hephaestus27/Ai-Vision-Plus/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/Hephaestus27/Ai-Vision-Plus/issues"> Request Feature </a> </h4>
 
 
 </div>
